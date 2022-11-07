@@ -1,4 +1,4 @@
-std::string Dino_facts[10] = {
+std::string dino_facts[10] = {
 "saurus belonged to the Brachiosauridae family and lived in the Lower Triassic",
 "raptor belonged to the Eoraptor family and lived in the Middle Triassic", 
 "pteryx belonged to the Herrerasauridae family and lived in the Late Jurassic" ,
