@@ -1,1 +1,1 @@
-This project generates names of dinosaurs. 
+This project generates names of dinosaurs. Code is in the master branch.
